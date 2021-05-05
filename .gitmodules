@@ -1,0 +1,3 @@
+[submodule "zbx-template-yum-updateinfo"]
+	path = zbx-template-yum-updateinfo
+	url = https://github.com/RobinR1/zbx-template-yum-updateinfo
